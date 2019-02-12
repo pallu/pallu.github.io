@@ -1,5 +1,5 @@
 ## Pallab Gupta
 
-- [GitHub](//github.com/pallu)
-- [LinkedIn](//www.linkedin.com/in/pallabgupta/)
-- [CV](//visualcv.com/pallabgupta)
+- [GitHub](https://github.com/pallu)
+- [LinkedIn](https://www.linkedin.com/in/pallabgupta/)
+- [CV](https://visualcv.com/pallabgupta)
