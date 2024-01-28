@@ -1,6 +1,6 @@
 ## Pallab Gupta
 
-I started coding in 1982 in college. I have a thorough knowledge in the Microsoft domain, specifically in .NET technologies, SQL Server, and also in web technologies like AJAX, jQuery, Javascript and Google Maps.
+I started coding in 1982 in college. I have a thorough knowledge in the Microsoft domain, specifically in .NET technologies, SQL Server, and also in web technologies like Blazor, AJAX, jQuery, Javascript and Google Maps.
 
 I like to code efficiently and not just to get the job done. I strive to be on the cutting edge of technology so that I bring the best in the code I write. My goal is not to maintain the status quo but to improve upon what I have done, if possible. I respond quickly to any problems so that there is minimum downtime for clients.
 
